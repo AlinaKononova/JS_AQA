@@ -1,4 +1,4 @@
-//Hometask 2
+//Hometask 3
 
 function fizzBuzz(n) {
     let result = '';
